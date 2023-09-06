@@ -1,8 +1,18 @@
 halloha
 
+<!DOCTYPE html>
+<html>
+  <head>
+    <h2>About Me</h2>
+  </head>
+  
+  <body>
+     I love to make things.
+  </body> 
+</html>
+
 ## Projects
 (still updating)
-
 
 
 
