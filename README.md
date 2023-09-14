@@ -12,7 +12,9 @@ halloha
 </html>
 
 ## Projects
-(still updating)
+(still updating ...)
+
+(last updated 9/13/23)
 
 
 
