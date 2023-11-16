@@ -14,8 +14,6 @@ halloha
 ## Projects
 (still updating ...)
 
-(last updated 9/13/23)
-
 
 
 <!--
