@@ -12,6 +12,7 @@ halloha
 </html>
 
 ## Projects
+<img src="images/camera_project.jpg" height="150em" align="center" alt="camera_project" title="camera_project"/>
 
 
 
